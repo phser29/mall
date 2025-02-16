@@ -1,7 +1,6 @@
 import React from 'react'
 import BasicLayout from '../Layouts/BasicLayout';
 
-
 const MainPage = () => {
   return (
     <div>
